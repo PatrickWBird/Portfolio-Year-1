@@ -1,0 +1,42 @@
+fieldset{
+    background-color: blue;
+}
+
+h2{
+    color: white;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: larger;
+}
+
+html {
+      background-color: navy;
+ } 
+ 
+#Good{
+    width:15%;
+}
+
+#Bad{
+    align-self: center;
+}
+
+legend{
+    color:white;
+    text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: larger;
+        
+}
+
+li{
+        color: white;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: larger;
+}
+
+ul{
+    flex-direction: row;
+    justify-items: space-evenly;
+    display: flex;
+}
