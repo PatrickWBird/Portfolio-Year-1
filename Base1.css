@@ -18,7 +18,8 @@ html {
 #Bad{
     align-self: center;
     margin-top: 1rem;
-    
+    border-radius: 3rem;
+
 }
 
 legend{
@@ -56,4 +57,16 @@ p{
             font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: large;
             margin-bottom: 2rem;
+}
+
+
+#con{
+    color: whitesmoke;
+        text-align: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: large;
+}
+
+#go{
+    color: white;
 }
