@@ -13,30 +13,47 @@ html {
       background-color: navy;
  } 
  
-#Good{
-    width:15%;
-}
+
 
 #Bad{
     align-self: center;
+    margin-top: 1rem;
+    
 }
 
 legend{
     color:white;
     text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: larger;
+        font-size: x-large;
         
 }
 
 li{
         color: white;
             font-family: Georgia, 'Times New Roman', Times, serif;
-            font-size: larger;
+            font-size: x-large;
+            float: left;
+            margin-left: 2rem;
+            margin-right: 2rem;
+
 }
 
 ul{
-    flex-direction: row;
-    justify-items: space-evenly;
-    display: flex;
+    list-style-type: none;
+}
+
+p{
+    color: whitesmoke;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
+}
+
+#Flow{
+        color: whitesmoke;
+            text-align: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: large;
+            margin-bottom: 2rem;
 }
