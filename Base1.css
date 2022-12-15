@@ -70,3 +70,11 @@ p{
 #go{
     color: white;
 }
+
+#right{
+float:left
+}
+
+#left{
+float: right;
+}
