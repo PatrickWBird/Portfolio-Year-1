@@ -72,9 +72,9 @@ p{
 }
 
 #right{
-float:left
+float:right
 }
 
 #left{
-float: right;
+float: left;
 }
